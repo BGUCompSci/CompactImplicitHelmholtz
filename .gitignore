@@ -1,0 +1,16 @@
+.vscode/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.npy
+data/
+*.pt
+.DS_Store
+*.png
+*.csv
+*.ckpt
+lightning_logs
+models/
+wandb/
+artifacts/
+*.yaml
